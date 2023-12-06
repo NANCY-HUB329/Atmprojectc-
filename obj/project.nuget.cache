@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2DHWbhnMG5Rrj/1vIHdXtIkzBk8x8B6VGeE2D2ymO0JNdcAy7SS25GcyahTxECnD5mJ06/eWUldfa3zikhatw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nancy\\Desktop\\my c projects\\ATM\\ATM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Nancy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
